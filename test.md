@@ -1,1 +1,1 @@
-[Test](http://jonathanrandet.com/)
+[Test](jonathanrandet.com)
