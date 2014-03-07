@@ -1,1 +1,1 @@
-**Test**(jonathanrandet.com)
+[**Test**](http://jonathanrandet.com/)
